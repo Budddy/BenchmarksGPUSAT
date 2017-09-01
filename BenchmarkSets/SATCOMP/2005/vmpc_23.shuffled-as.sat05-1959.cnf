@@ -1,0 +1,67 @@
+c ****************************************************************
+c **           This is a Sat-2005 Competition instance          **
+c ****************************************************************
+c N.B. This header has been added to the file after the competition
+c Please do contact L. Simon for more informations (simon@lri.fr)
+c 
+c Bench submitted by 
+c    Francois Grieu (francois.grieu@spirtech.com)
+c 
+c The original name of this formula was: 
+c    industrial/grieu05/vmpc/vmpc_23.cnf
+
+c Category
+c    industrial
+c The name used during the competition was: 
+c     /benchs/industrial/set3/subset1/sat05-1959.cnf
+c 
+c CPU time of solvers on this bench during the first stage 
+c  (demonstration solvers are annoted with a (*)):
+c   +---------------------+---------+--------+
+c   | Solver              | Time    | Answer |
+c   +---------------------+---------+--------+
+c   | HaifaSat2           |    3.04 |   SAT  |
+c   | CirCUsD(*)          |    5.94 |   SAT  |
+c   | minisat_static      |    6.27 |   SAT  |
+c   | SatELiteGTI         |    6.46 |   SAT  |
+c   | HaifaSat            |   15.27 |   SAT  |
+c   | zchaff              |   15.85 |   SAT  |
+c   | sat4j.jar           |   17.65 |   SAT  |
+c   | rrsaps              |   19.46 |   SAT  |
+c   | csat                |   28.62 |   SAT  |
+c   | eureka_C(*)         |   29.19 |   SAT  |
+c   | midisat_static(*)   |   33.49 |   SAT  |
+c   | rpaws40(*)          |   34.44 |   SAT  |
+c   | vallst.sh           |   39.32 |   SAT  |
+c   | CirCUsA(*)          |   44.56 |   SAT  |
+c   | Jerusat1.31_A       |   46.96 |   SAT  |
+c   | Jerusat1.31_B       |   50.81 |   SAT  |
+c   | zchaff_rand         |   54.59 |   SAT  |
+c   | g2wsat              |   60.97 |   SAT  |
+c   | rpaws10             |   63.34 |   SAT  |
+c   | rpaws5(*)           |   75.41 |   SAT  |
+c   | eureka_B(*)         |   86.81 |   SAT  |
+c   | wllsatv1            |   89.27 |   SAT  |
+c   | compsat             |  100.29 |   SAT  |
+c   | Dew_Satz_1d(*)      |  158.83 |   SAT  |
+c   | hsat.1              |  163.90 |   SAT  |
+c   | march_dl            |  181.67 |   SAT  |
+c   | hsat.5              |  184.87 |   SAT  |
+c   | eureka_A(*)         |  203.24 |   SAT  |
+c   | Dew_Satz_1a         |  473.00 |   SAT  |
+c   | ranov               |  594.64 |   SAT  |
+c   | Dew_Satz_1c         |  855.33 |   SAT  |
+c   | Dew_Satz_1b         |  866.31 |   SAT  |
+c   | adaptnovelty        | 1200.00 |   --   |
+c   | CirCUsB(*)          | 1200.00 |   --   |
+c   | Dew_Satz_1e(*)      | 1200.00 |   --   |
+c   | hsatrr              | 1200.00 |   --   |
+c   | kcnfs(*)            | 1200.00 |   --   |
+c   | kcnfs-2004          | 1200.00 |   --   |
+c   | lsatv1.1            | 1200.00 |   --   |
+c   | saps                | 1200.00 |   --   |
+c   | SatELite_release(*) | 1200.00 |   --   |
+c   | tts-3-0             | 1200.00 |   --   |
+c   | vw                  | 1200.00 |   --   |
+c   +---------------------+---------+--------+
+c

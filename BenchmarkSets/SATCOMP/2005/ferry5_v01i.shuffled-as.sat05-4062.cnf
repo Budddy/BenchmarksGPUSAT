@@ -1,0 +1,67 @@
+c ****************************************************************
+c **           This is a Sat-2005 Competition instance          **
+c ****************************************************************
+c N.B. This header has been added to the file after the competition
+c Please do contact L. Simon for more informations (simon@lri.fr)
+c 
+c Bench submitted by 
+c    Frederic Maris (maris@irit.fr)
+c 
+c The original name of this formula was: 
+c    industrial/maris05/Ferry/ferry5_v01i.cnf
+
+c Category
+c    industrial
+c The name used during the competition was: 
+c     /benchs/industrial/set8/subset5/sat05-4062.cnf
+c 
+c CPU time of solvers on this bench during the first stage 
+c  (demonstration solvers are annoted with a (*)):
+c   +---------------------+---------+--------+
+c   | Solver              | Time    | Answer |
+c   +---------------------+---------+--------+
+c   | midisat_static(*)   |    0.03 |   SAT  |
+c   | minisat_static      |    0.03 |   SAT  |
+c   | zchaff              |    0.06 |   SAT  |
+c   | compsat             |    0.07 |   SAT  |
+c   | HaifaSat            |    0.08 |   SAT  |
+c   | HaifaSat2           |    0.08 |   SAT  |
+c   | Jerusat1.31_A       |    0.08 |   SAT  |
+c   | SatELiteGTI         |    0.08 |   SAT  |
+c   | zchaff_rand         |    0.08 |   SAT  |
+c   | eureka_B(*)         |    0.12 |   SAT  |
+c   | eureka_C(*)         |    0.12 |   SAT  |
+c   | Dew_Satz_1d(*)      |    0.15 |   SAT  |
+c   | csat                |    0.17 |   SAT  |
+c   | eureka_A(*)         |    0.19 |   SAT  |
+c   | CirCUsA(*)          |    0.22 |   SAT  |
+c   | CirCUsD(*)          |    0.25 |   SAT  |
+c   | CirCUsB(*)          |    0.31 |   SAT  |
+c   | rrsaps              |    0.32 |   SAT  |
+c   | kcnfs-2004          |    0.46 |   SAT  |
+c   | vallst.sh           |    0.69 |   SAT  |
+c   | Jerusat1.31_B       |    0.73 |   SAT  |
+c   | hsatrr              |    1.14 |   SAT  |
+c   | hsat.5              |    1.15 |   SAT  |
+c   | hsat.1              |    1.23 |   SAT  |
+c   | march_dl            |    1.60 |   SAT  |
+c   | sat4j.jar           |    1.90 |   SAT  |
+c   | rpaws40(*)          |    2.27 |   SAT  |
+c   | Dew_Satz_1e(*)      |    3.45 |   SAT  |
+c   | Dew_Satz_1c         |    5.49 |   SAT  |
+c   | Dew_Satz_1b         |    5.60 |   SAT  |
+c   | Dew_Satz_1a         |    5.86 |   SAT  |
+c   | kcnfs(*)            |   59.94 |   SAT  |
+c   | vw                  |  182.60 |   SAT  |
+c   | saps                |  240.39 |   SAT  |
+c   | wllsatv1            |  346.69 |   SAT  |
+c   | g2wsat              |  475.17 |   SAT  |
+c   | tts-3-0             | 1175.82 |   SAT  |
+c   | adaptnovelty        | 1200.00 |   --   |
+c   | lsatv1.1            | 1200.00 |   --   |
+c   | ranov               | 1200.00 |   --   |
+c   | rpaws10             | 1200.00 |   --   |
+c   | rpaws5(*)           | 1200.00 |   --   |
+c   | SatELite_release(*) | 1200.00 |   --   |
+c   +---------------------+---------+--------+
+c

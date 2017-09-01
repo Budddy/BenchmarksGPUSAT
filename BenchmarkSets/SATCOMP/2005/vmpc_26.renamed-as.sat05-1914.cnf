@@ -1,0 +1,67 @@
+c ****************************************************************
+c **           This is a Sat-2005 Competition instance          **
+c ****************************************************************
+c N.B. This header has been added to the file after the competition
+c Please do contact L. Simon for more informations (simon@lri.fr)
+c 
+c Bench submitted by 
+c    Francois Grieu (francois.grieu@spirtech.com)
+c 
+c The original name of this formula was: 
+c    industrial/grieu05/vmpc/vmpc_26.cnf
+
+c Category
+c    industrial
+c The name used during the competition was: 
+c     /benchs/industrial/set2/subset1/sat05-1914.cnf
+c 
+c CPU time of solvers on this bench during the first stage 
+c  (demonstration solvers are annoted with a (*)):
+c   +---------------------+---------+--------+
+c   | Solver              | Time    | Answer |
+c   +---------------------+---------+--------+
+c   | kcnfs(*)            |    1.12 |  UNSAT |
+c   | Jerusat1.31_A       |   83.80 |   SAT  |
+c   | HaifaSat            |  104.17 |   SAT  |
+c   | HaifaSat2           |  139.22 |   SAT  |
+c   | rpaws10             |  195.52 |   SAT  |
+c   | vallst.sh           |  195.77 |   SAT  |
+c   | zchaff              |  240.70 |   SAT  |
+c   | zchaff_rand         |  304.08 |   SAT  |
+c   | csat                |  379.61 |   SAT  |
+c   | rpaws5(*)           |  402.39 |   SAT  |
+c   | eureka_A(*)         |  848.50 |   SAT  |
+c   | hsat.1              |  961.90 |   SAT  |
+c   | rpaws40(*)          | 1053.74 |   SAT  |
+c   | adaptnovelty        | 1200.00 |   --   |
+c   | CirCUsA(*)          | 1200.00 |   --   |
+c   | CirCUsB(*)          | 1200.00 |   --   |
+c   | CirCUsD(*)          | 1200.00 |   --   |
+c   | compsat             | 1200.00 |   --   |
+c   | Dew_Satz_1a         | 1200.00 |   --   |
+c   | Dew_Satz_1b         | 1200.00 |   --   |
+c   | Dew_Satz_1c         | 1200.00 |   --   |
+c   | Dew_Satz_1d(*)      | 1200.00 |   --   |
+c   | Dew_Satz_1e(*)      | 1200.00 |   --   |
+c   | eureka_B(*)         | 1200.00 |   --   |
+c   | eureka_C(*)         | 1200.00 |   --   |
+c   | g2wsat              | 1200.00 |   --   |
+c   | hsat.5              | 1200.00 |   --   |
+c   | hsatrr              | 1200.00 |   --   |
+c   | Jerusat1.31_B       | 1200.00 |   --   |
+c   | kcnfs-2004          | 1200.00 |   --   |
+c   | lsatv1.1            | 1200.00 |   --   |
+c   | march_dl            | 1200.00 |   --   |
+c   | midisat_static(*)   | 1200.00 |   --   |
+c   | minisat_static      | 1200.00 |   --   |
+c   | ranov               | 1200.00 |   --   |
+c   | rrsaps              | 1200.00 |   --   |
+c   | saps                | 1200.00 |   --   |
+c   | sat4j.jar           | 1200.00 |   --   |
+c   | SatELiteGTI         | 1200.00 |   --   |
+c   | SatELite_release(*) | 1200.00 |   --   |
+c   | tts-3-0             | 1200.00 |   --   |
+c   | vw                  | 1200.00 |   --   |
+c   | wllsatv1            | 1200.00 |   --   |
+c   +---------------------+---------+--------+
+c
